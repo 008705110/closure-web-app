@@ -1,0 +1,14 @@
+.MuiCard-root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.example:hover{
+  opacity: .85;
+  cursor: pointer;
+}
+
+.backgroundDiv{
+  background: black;
+}
